@@ -1,6 +1,6 @@
 .deps
 .libs
-Makefile
+#Makefile
 Makefile.in
 !doc/Makefile.in
 *.la
